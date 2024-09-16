@@ -1,0 +1,40 @@
+﻿<Window x:Class="WpfAppLecture1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppLecture1"
+        mc:Ignorable="d"
+        MinHeight="450"
+        MinWidth="450"
+        Title="Лекция 1. Знакомство с WPF" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Orientation="Horizontal">
+            <Image Source="./SourceApp/logo2.jpg"/>
+            <TextBlock 
+                Style="{DynamicResource HeaderText}"
+                Text="Hello world!"/>
+        </StackPanel>
+
+        <Frame 
+            NavigationUIVisibility="Hidden"
+            Name="FrmMainContent"
+            Grid.Row="1"
+            />
+
+        <Button 
+            Grid.Row="2"
+            HorizontalAlignment="Right"
+            Content="О компании"
+            Style="{DynamicResource DefaultBtn}"
+            Name="BtnAboutOf"
+            Click="BtnAboutOf_Click"
+            />
+    </Grid>
+</Window>
