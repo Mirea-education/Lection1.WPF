@@ -30,14 +30,31 @@ namespace WpfAppLecture1.PagesApp
         {
             try
             {
-                if (TxbLogin.Text == "123" && PsbPass.Password == "123")
+                var userInfo = ClassConnect.MIREAEntities.User.FirstOrDefault(
+                    x =>
+                        x.Login == TxbLogin.Text && x.Password == PsbPass.Password
+                    );
+                if (userInfo != null)
                 {
-                    ClassNav.frmContent.Navigate(new PageContent());
+                    switch (userInfo.RoleId)
+                    {
+                        case 1: ClassNav.frmContent.Navigate(new PageContent());
+                            break;
+                        case 2: MessageBox.Show($"Вы авторизуетесь под ролью {userInfo.Role.Name}");
+                            break;
+                        default: break;
+                    }
                 }
-                else
-                {
-                    MessageBox.Show("Пароль неверный!");
-                }
+
+
+                //if (TxbLogin.Text == "123" && PsbPass.Password == "123")
+                //{
+                //    ClassNav.frmContent.Navigate(new PageContent());
+                //}
+                //else
+                //{
+                //    MessageBox.Show("Пароль неверный!");
+                //}
             }
             catch (Exception ex)
             {

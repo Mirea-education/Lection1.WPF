@@ -3,39 +3,47 @@
   "WorkspaceRootPath": "C:\\Users\\burnf\\source\\repos\\WpfAppLecture1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD95C2AA-FF81-4415-9C4E-12890086A1FF}|WpfAppLecture1\\WpfAppLecture1.csproj|c:\\users\\burnf\\source\\repos\\wpfapplecture1\\wpfapplecture1\\pagesapp\\pagemain.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD95C2AA-FF81-4415-9C4E-12890086A1FF}|WpfAppLecture1\\WpfAppLecture1.csproj|solutionrelative:wpfapplecture1\\pagesapp\\pagemain.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD95C2AA-FF81-4415-9C4E-12890086A1FF}|WpfAppLecture1\\WpfAppLecture1.csproj|c:\\users\\burnf\\source\\repos\\wpfapplecture1\\wpfapplecture1\\pagesapp\\pagemain.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{CD95C2AA-FF81-4415-9C4E-12890086A1FF}|WpfAppLecture1\\WpfAppLecture1.csproj|solutionrelative:wpfapplecture1\\pagesapp\\pagemain.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD95C2AA-FF81-4415-9C4E-12890086A1FF}|WpfAppLecture1\\WpfAppLecture1.csproj|c:\\users\\burnf\\source\\repos\\wpfapplecture1\\wpfapplecture1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{CD95C2AA-FF81-4415-9C4E-12890086A1FF}|WpfAppLecture1\\WpfAppLecture1.csproj|solutionrelative:wpfapplecture1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD95C2AA-FF81-4415-9C4E-12890086A1FF}|WpfAppLecture1\\WpfAppLecture1.csproj|c:\\users\\burnf\\source\\repos\\wpfapplecture1\\wpfapplecture1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD95C2AA-FF81-4415-9C4E-12890086A1FF}|WpfAppLecture1\\WpfAppLecture1.csproj|solutionrelative:wpfapplecture1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD95C2AA-FF81-4415-9C4E-12890086A1FF}|WpfAppLecture1\\WpfAppLecture1.csproj|c:\\users\\burnf\\source\\repos\\wpfapplecture1\\wpfapplecture1\\pagesapp\\pagecontent.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD95C2AA-FF81-4415-9C4E-12890086A1FF}|WpfAppLecture1\\WpfAppLecture1.csproj|solutionrelative:wpfapplecture1\\pagesapp\\pagecontent.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD95C2AA-FF81-4415-9C4E-12890086A1FF}|WpfAppLecture1\\WpfAppLecture1.csproj|c:\\users\\burnf\\source\\repos\\wpfapplecture1\\wpfapplecture1\\pagesapp\\pagecontent.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{CD95C2AA-FF81-4415-9C4E-12890086A1FF}|WpfAppLecture1\\WpfAppLecture1.csproj|C:\\Users\\burnf\\source\\repos\\WpfAppLecture1\\wpfapplecture1\\pagesapp\\pagecontent.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{CD95C2AA-FF81-4415-9C4E-12890086A1FF}|WpfAppLecture1\\WpfAppLecture1.csproj|solutionrelative:wpfapplecture1\\pagesapp\\pagecontent.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD95C2AA-FF81-4415-9C4E-12890086A1FF}|WpfAppLecture1\\WpfAppLecture1.csproj|c:\\users\\burnf\\source\\repos\\wpfapplecture1\\wpfapplecture1\\classapp\\classnav.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD95C2AA-FF81-4415-9C4E-12890086A1FF}|WpfAppLecture1\\WpfAppLecture1.csproj|solutionrelative:wpfapplecture1\\classapp\\classnav.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD95C2AA-FF81-4415-9C4E-12890086A1FF}|WpfAppLecture1\\WpfAppLecture1.csproj|c:\\users\\burnf\\source\\repos\\wpfapplecture1\\wpfapplecture1\\classapp\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{CD95C2AA-FF81-4415-9C4E-12890086A1FF}|WpfAppLecture1\\WpfAppLecture1.csproj|solutionrelative:wpfapplecture1\\classapp\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD95C2AA-FF81-4415-9C4E-12890086A1FF}|WpfAppLecture1\\WpfAppLecture1.csproj|C:\\Users\\burnf\\source\\repos\\WpfAppLecture1\\wpfapplecture1\\pagesapp\\pagemain.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD95C2AA-FF81-4415-9C4E-12890086A1FF}|WpfAppLecture1\\WpfAppLecture1.csproj|solutionrelative:wpfapplecture1\\pagesapp\\pagemain.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD95C2AA-FF81-4415-9C4E-12890086A1FF}|WpfAppLecture1\\WpfAppLecture1.csproj|C:\\Users\\burnf\\source\\repos\\WpfAppLecture1\\wpfapplecture1\\pagesapp\\pagecontent.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD95C2AA-FF81-4415-9C4E-12890086A1FF}|WpfAppLecture1\\WpfAppLecture1.csproj|solutionrelative:wpfapplecture1\\pagesapp\\pagecontent.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD95C2AA-FF81-4415-9C4E-12890086A1FF}|WpfAppLecture1\\WpfAppLecture1.csproj|C:\\Users\\burnf\\source\\repos\\WpfAppLecture1\\wpfapplecture1\\pagesapp\\pagemain.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CD95C2AA-FF81-4415-9C4E-12890086A1FF}|WpfAppLecture1\\WpfAppLecture1.csproj|solutionrelative:wpfapplecture1\\pagesapp\\pagemain.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD95C2AA-FF81-4415-9C4E-12890086A1FF}|WpfAppLecture1\\WpfAppLecture1.csproj|C:\\Users\\burnf\\source\\repos\\WpfAppLecture1\\wpfapplecture1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CD95C2AA-FF81-4415-9C4E-12890086A1FF}|WpfAppLecture1\\WpfAppLecture1.csproj|solutionrelative:wpfapplecture1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD95C2AA-FF81-4415-9C4E-12890086A1FF}|WpfAppLecture1\\WpfAppLecture1.csproj|c:\\users\\burnf\\source\\repos\\wpfapplecture1\\wpfapplecture1\\classapp\\classconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD95C2AA-FF81-4415-9C4E-12890086A1FF}|WpfAppLecture1\\WpfAppLecture1.csproj|solutionrelative:wpfapplecture1\\classapp\\classconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD95C2AA-FF81-4415-9C4E-12890086A1FF}|WpfAppLecture1\\WpfAppLecture1.csproj|C:\\Users\\burnf\\source\\repos\\WpfAppLecture1\\wpfapplecture1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD95C2AA-FF81-4415-9C4E-12890086A1FF}|WpfAppLecture1\\WpfAppLecture1.csproj|solutionrelative:wpfapplecture1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CD95C2AA-FF81-4415-9C4E-12890086A1FF}|WpfAppLecture1\\WpfAppLecture1.csproj|c:\\users\\burnf\\source\\repos\\wpfapplecture1\\wpfapplecture1\\windowsapp\\windowsabout.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{CD95C2AA-FF81-4415-9C4E-12890086A1FF}|WpfAppLecture1\\WpfAppLecture1.csproj|solutionrelative:wpfapplecture1\\windowsapp\\windowsabout.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD95C2AA-FF81-4415-9C4E-12890086A1FF}|WpfAppLecture1\\WpfAppLecture1.csproj|c:\\users\\burnf\\source\\repos\\wpfapplecture1\\wpfapplecture1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{CD95C2AA-FF81-4415-9C4E-12890086A1FF}|WpfAppLecture1\\WpfAppLecture1.csproj|C:\\Users\\burnf\\source\\repos\\WpfAppLecture1\\wpfapplecture1\\classapp\\classnav.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD95C2AA-FF81-4415-9C4E-12890086A1FF}|WpfAppLecture1\\WpfAppLecture1.csproj|solutionrelative:wpfapplecture1\\classapp\\classnav.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD95C2AA-FF81-4415-9C4E-12890086A1FF}|WpfAppLecture1\\WpfAppLecture1.csproj|C:\\Users\\burnf\\source\\repos\\WpfAppLecture1\\wpfapplecture1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{CD95C2AA-FF81-4415-9C4E-12890086A1FF}|WpfAppLecture1\\WpfAppLecture1.csproj|solutionrelative:wpfapplecture1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -46,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 231,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,10 +74,6 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
             },
             {
@@ -82,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\burnf\\source\\repos\\WpfAppLecture1\\WpfAppLecture1\\App.xaml",
               "RelativeDocumentMoniker": "WpfAppLecture1\\App.xaml",
@@ -94,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\burnf\\source\\repos\\WpfAppLecture1\\WpfAppLecture1\\MainWindow.xaml",
               "RelativeDocumentMoniker": "WpfAppLecture1\\MainWindow.xaml",
@@ -106,33 +110,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PagesApp\\PageContent.xaml.cs",
+              "DocumentIndex": 3,
+              "Title": "PageContent.xaml.cs",
               "DocumentMoniker": "C:\\Users\\burnf\\source\\repos\\WpfAppLecture1\\WpfAppLecture1\\PagesApp\\PageContent.xaml.cs",
               "RelativeDocumentMoniker": "WpfAppLecture1\\PagesApp\\PageContent.xaml.cs",
               "ToolTip": "C:\\Users\\burnf\\source\\repos\\WpfAppLecture1\\WpfAppLecture1\\PagesApp\\PageContent.xaml.cs",
               "RelativeToolTip": "WpfAppLecture1\\PagesApp\\PageContent.xaml.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAAABYAAAAFAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABsAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-16T17:44:13.401Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PagesApp\\PageMain.xaml.cs",
+              "DocumentIndex": 2,
+              "Title": "PageMain.xaml.cs",
               "DocumentMoniker": "C:\\Users\\burnf\\source\\repos\\WpfAppLecture1\\WpfAppLecture1\\PagesApp\\PageMain.xaml.cs",
               "RelativeDocumentMoniker": "WpfAppLecture1\\PagesApp\\PageMain.xaml.cs",
               "ToolTip": "C:\\Users\\burnf\\source\\repos\\WpfAppLecture1\\WpfAppLecture1\\PagesApp\\PageMain.xaml.cs",
               "RelativeToolTip": "WpfAppLecture1\\PagesApp\\PageMain.xaml.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAYwCAAAAABAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCIAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-16T17:39:26.982Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "WindowsAbout.xaml",
               "DocumentMoniker": "C:\\Users\\burnf\\source\\repos\\WpfAppLecture1\\WpfAppLecture1\\WindowsApp\\WindowsAbout.xaml",
               "RelativeDocumentMoniker": "WpfAppLecture1\\WindowsApp\\WindowsAbout.xaml",
@@ -144,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "PageMain.xaml",
               "DocumentMoniker": "C:\\Users\\burnf\\source\\repos\\WpfAppLecture1\\WpfAppLecture1\\PagesApp\\PageMain.xaml",
               "RelativeDocumentMoniker": "WpfAppLecture1\\PagesApp\\PageMain.xaml",
@@ -156,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "PageContent.xaml",
               "DocumentMoniker": "C:\\Users\\burnf\\source\\repos\\WpfAppLecture1\\WpfAppLecture1\\PagesApp\\PageContent.xaml",
               "RelativeDocumentMoniker": "WpfAppLecture1\\PagesApp\\PageContent.xaml",
@@ -168,20 +172,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
+              "Title": "ClassConnect.cs",
+              "DocumentMoniker": "C:\\Users\\burnf\\source\\repos\\WpfAppLecture1\\WpfAppLecture1\\ClassApp\\ClassConnect.cs",
+              "RelativeDocumentMoniker": "WpfAppLecture1\\ClassApp\\ClassConnect.cs",
+              "ToolTip": "C:\\Users\\burnf\\source\\repos\\WpfAppLecture1\\WpfAppLecture1\\ClassApp\\ClassConnect.cs",
+              "RelativeToolTip": "WpfAppLecture1\\ClassApp\\ClassConnect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T16:57:02.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\burnf\\source\\repos\\WpfAppLecture1\\WpfAppLecture1\\ClassApp\\Model1.edmx",
+              "RelativeDocumentMoniker": "WpfAppLecture1\\ClassApp\\Model1.edmx",
+              "ToolTip": "C:\\Users\\burnf\\source\\repos\\WpfAppLecture1\\WpfAppLecture1\\ClassApp\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "WpfAppLecture1\\ClassApp\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-10-07T17:04:40.354Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\burnf\\source\\repos\\WpfAppLecture1\\WpfAppLecture1\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "WpfAppLecture1\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\burnf\\source\\repos\\WpfAppLecture1\\WpfAppLecture1\\MainWindow.xaml.cs",
               "RelativeToolTip": "WpfAppLecture1\\MainWindow.xaml.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAAAB4AAAAxAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAAB8AAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-16T16:55:43.817Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "ClassNav.cs",
               "DocumentMoniker": "C:\\Users\\burnf\\source\\repos\\WpfAppLecture1\\WpfAppLecture1\\ClassApp\\ClassNav.cs",
               "RelativeDocumentMoniker": "WpfAppLecture1\\ClassApp\\ClassNav.cs",
@@ -189,8 +218,7 @@
               "RelativeToolTip": "WpfAppLecture1\\ClassApp\\ClassNav.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T17:33:43.592Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-16T17:33:43.592Z"
             }
           ]
         }

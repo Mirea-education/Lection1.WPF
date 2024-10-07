@@ -9,17 +9,18 @@
       Title="PageContent">
 
     <Grid>
-        <StackPanel
-            HorizontalAlignment="Center"
-            VerticalAlignment="Center">
-            <TextBlock 
-                Style="{DynamicResource HeaderText}"
-                Text="Контентная часть"/>
-            <Button 
-                Click="BtnBack_Click"
-                Name="BtnBack"
-                Content="Назад"
-                Style="{DynamicResource DefaultBtn}"/>
-        </StackPanel>
+        <DataGrid
+            Name="GridListUser"
+            AutoGenerateColumns="False"
+            IsReadOnly="True"
+            >
+            <DataGrid.Columns>
+                <DataGridTextColumn Width="*" Header="ИД" Binding="{Binding Id}"/>
+                <DataGridTextColumn Width="*" Header="Имя пользователя" Binding="{Binding Name}"/>
+                <DataGridTextColumn Width="*" Header="Логин пользователя" Binding="{Binding Login}"/>
+                <DataGridTextColumn Width="*" Header="Пароль" Binding="{Binding Password}"/>
+                <DataGridTextColumn Width="*" Header="Роль" Binding="{Binding Role.Name}"/>
+            </DataGrid.Columns>
+        </DataGrid>
     </Grid>
 </Page>

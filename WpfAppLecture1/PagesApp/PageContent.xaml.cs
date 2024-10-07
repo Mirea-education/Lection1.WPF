@@ -24,6 +24,8 @@ namespace WpfAppLecture1.PagesApp
         public PageContent()
         {
             InitializeComponent();
+
+            GridListUser.ItemsSource = ClassConnect.MIREAEntities.User.ToList();
         }
 
         private void BtnBack_Click(object sender, RoutedEventArgs e)

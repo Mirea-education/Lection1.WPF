@@ -20,3 +20,10 @@ C:\Users\burnf\source\repos\WpfAppLecture1\WpfAppLecture1\obj\Debug\PagesApp\Pag
 C:\Users\burnf\source\repos\WpfAppLecture1\WpfAppLecture1\obj\Debug\PagesApp\PageMain.baml
 C:\Users\burnf\source\repos\WpfAppLecture1\WpfAppLecture1\obj\Debug\PagesApp\PageContent.g.cs
 C:\Users\burnf\source\repos\WpfAppLecture1\WpfAppLecture1\obj\Debug\PagesApp\PageContent.baml
+C:\Users\burnf\source\repos\WpfAppLecture1\WpfAppLecture1\bin\Debug\EntityFramework.dll
+C:\Users\burnf\source\repos\WpfAppLecture1\WpfAppLecture1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\burnf\source\repos\WpfAppLecture1\WpfAppLecture1\bin\Debug\EntityFramework.xml
+C:\Users\burnf\source\repos\WpfAppLecture1\WpfAppLecture1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\burnf\source\repos\WpfAppLecture1\WpfAppLecture1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\burnf\source\repos\WpfAppLecture1\WpfAppLecture1\obj\Debug\WpfAppLecture1_Content.g.cs
+C:\Users\burnf\source\repos\WpfAppLecture1\WpfAppLecture1\obj\Debug\WpfAppLe.A4025479.Up2Date
